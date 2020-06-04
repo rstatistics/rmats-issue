@@ -1,0 +1,30 @@
+gtf: 0.08558773994445801
+There are 27 distinct gene ID in the gtf file
+There are 411 distinct transcript ID in the gtf file
+There are 5 one-transcript genes in the gtf file
+There are 2724 exons in the gtf file
+There are 7 one-exon transcripts in the gtf file
+There are 4 one-transcript genes with only one exon in the transcript
+Average number of transcripts per gene is 15.222222
+Average number of exons per transcript is 6.627737
+Average number of exons per transcript excluding one-exon tx is 6.725248
+Average number of gene per geneGroup is 1.064780
+statistic: 4.172325134277344e-05
+novel: 1.0844354629516602
+The splicing graph and candidate read have been saved into ./tmp/2020-06-04-23:21:38_997541.rmats
+save: 0.0005750656127929688
+loadsg: 0.00023317337036132812
+
+==========
+Done processing each gene from dictionary to compile AS events
+Found 116 exon skipping events
+Found 13 exon MX events
+Found 41 alt SS events
+There are 28 alt 3 SS events and 13 alt 5 SS events.
+Found 18 RI events
+==========
+
+ase: 0.008185386657714844
+count: 0.0022895336151123047
+Processing count files.
+Done processing count files.

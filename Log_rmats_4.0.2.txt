@@ -1,0 +1,23 @@
+There are 27 distinct gene ID in the gtf file
+There are 411 distinct transcript ID in the gtf file
+There are 5 one-transcript genes in the gtf file
+There are 2724 exons in the gtf file
+There are 7 one-exon transcripts in the gtf file
+There are 4 one-transcript genes with only one exon in the transcript
+Average number of transcripts per gene is 15.222222
+Average number of exons per transcript is 6.627737
+Average number of exons per transcript excluding one-exon tx is 6.725248
+Average number of gene per geneGroup is 1.064780
+
+==========
+Done processing each gene from dictionary to compile AS events
+Found 150 exon skipping events
+Found 24 exon MX events
+Found 48 alt SS events
+There are 32 alt 3 SS events and 16 alt 5 SS events.
+Found 18 RI events
+==========
+
+Running the statistical part.
+The statistical part is done.
+Done.
